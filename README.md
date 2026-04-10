@@ -35,12 +35,20 @@ python3 jpg_to_pdf.py
 ```
 
 ### PDF Finder
+
+![PDF Finder Home](media/finder_home.png)
+![PDF Finder Search Result](media/finder_match.png)
+
 1. Select the folder to scan.
 2. Optionally enter a keyword to filter by filename.
 3. Click `Search PDFs`.
 4. Open a result with the corresponding `Open` button.
 
 ### Image to PDF
+
+![Image Converter Home](media/converter_home.png)
+![Image Converter Result](media/converter_conversion.png)
+
 1. Select an image file.
 2. Click `Convert to PDF`.
 3. The PDF is saved to the Desktop when available, otherwise to the current working directory.
