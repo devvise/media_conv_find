@@ -1,4 +1,4 @@
-# Media Conv Find
+# Media Converter and Finder
 
 Desktop utilities for file lookup and image conversion, built with Python and CustomTkinter.
 
