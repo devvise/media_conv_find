@@ -13,7 +13,7 @@ Desktop utilities for file lookup and image conversion, built with Python and Cu
 
 ## Installation
 ```bash
-git clone https://github.com/micheleviselli/media_conv_find.git
+git clone https://github.com/devvise/media_conv_find.git
 cd media_conv_find
 python3 -m venv .venv
 source .venv/bin/activate
